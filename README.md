@@ -1,18 +1,18 @@
-## image-processing
+# image-processing
 
-# fuzzy-logic-system
+## fuzzy-logic-system
 Implementation of a fuzzy logic image processing system.
 
-# hough-transform-and-intensity-thresholding-methods
+## hough-transform-and-intensity-thresholding-methods
 Hough Transform and Intensity Thresholding Methods.
 
-# image-enhancement
+## image-enhancement
 Image enhancement in the spatial domain.
 
-# ordered-dithering
+## ordered-dithering
 Design and provide experimental results on the following halftoning technique: Ordered dithering.
 
-# wavelets-multi-resolution-processing
+## wavelets-multi-resolution-processing
 Understand the 2D wavelet transform and use db1 to perform the 2D wavelet transform of the 
 image to determine and locate all contaminated periodic noise. The experimental design must contain 
 the verification of the fact that additive Gaussian noise to the spatial image data of a given variance 
