@@ -1,5 +1,4 @@
 # image-processing
-======
 
 ## fuzzy-logic-system
 Implementation of a fuzzy logic image processing system.
